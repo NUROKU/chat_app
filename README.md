@@ -12,4 +12,4 @@ archive for serverless chat app
 
 リリースされたてホヤホヤのAppSync Events APIを使ってWeb Socket部分をサーバレスに実装。
 
-DynamoDB使ってないな・・・履歴取得作ってないから。
+DynamoDB使ってない。履歴取得作ってないから
