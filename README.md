@@ -13,3 +13,7 @@ archive for serverless chat app
 リリースされたてホヤホヤのAppSync Events APIを使ってWeb Socket部分をサーバレスに実装。
 
 DynamoDB使ってない。履歴取得作ってないから
+
+## 動かし方
+
+envにAPI Keyとか設定したら動くよ。つまりこのリポジトリだけじゃ動かないよ。ざんねん
